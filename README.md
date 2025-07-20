@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Vinayak Tandon (aka Mahi)
 
-<!--
-**VinayakTandon199/VinayakTandon199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Currently Learning:
+- ✅ Web Development (HTML, CSS, JS)
+- ✅ DSA in C++
+- ✅ Git & GitHub
 
-Here are some ideas to get you started:
+## 🚀 My Projects:
+- `DSA-in-CPP` – Practice problems with clean C++ code
+- `WebDev-Projects` – Mini HTML/CSS projects
+- `Learning-Log` – Weekly progress tracker (coming soon!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Goals:
+- Build an awesome portfolio 💼
+- Be consistent and show my growth publicly
+- Help others who are also starting out!
+
+---
+
+📫 Watch me grow here 👇
