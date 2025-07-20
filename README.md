@@ -3,6 +3,10 @@
 
 ---
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+This++is+Vinayak+Tandon;Enthusiastic+nerd+web+developer!)](https://git.io/typing-svg)
+
+---
+
 ### 🧠 About Me:
 - 🎓 I'm a 2nd year college student passionate about tech & growth
 - 💻 Currently learning **Web Development** and **DSA using C++**
