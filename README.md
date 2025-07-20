@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VinayakTandon199/VinayakTandon199/banner.png" alt="Batman Neon Banner" width="800"/>
+  <img src="https://github.com/VinayakTandon199/VinayakTandon199/blob/main/banner.jpg" alt="Batman Neon Banner" width="800"/>
 </p>
 
 <h1 align="center" style="color:#76FF03;">Hey there 👋, I'm <span style="color:#03A9F4;">Vinayak Tandon</span></h1>
