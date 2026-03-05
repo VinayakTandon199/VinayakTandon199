@@ -26,7 +26,7 @@
 <br><br>
 - 🎓 I'm a 2nd year college student passionate about tech & growth  
 <br><br>
-- 💻 Currently learning **Web Development** and **DSA using C++**  
+- 💻 Currently learning Web Development and DSA using C++  
 <br><br>
 - 📚 Love to build, break and learn from real projects  
 <br><br>
